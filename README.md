@@ -106,7 +106,3 @@ Data Science & Analytics Intern
 Future Interns
 
 
-
-**Year:** 2026
-
----
